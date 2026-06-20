@@ -1,0 +1,10 @@
+p {
+	background-color:aqua;
+}
+
+.position-relative {
+	position:relative; /*<---- ini akan membuat posisi nya menjadi relative*/
+	left:50px; /*<----- ini seperti menambahkan margin dari kiri sesuai original position*/
+	top:50px; /*<----- ini seperti menambahkan margin dari atas sesuai original position*/
+	background-color:#ff5100;
+} /*coba kalian inspek dan lihat margin nya di mulai dari mana*/
